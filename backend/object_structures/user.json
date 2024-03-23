@@ -1,0 +1,13 @@
+{
+    "id" : 0,
+    "userdata": {
+      "username": "",
+      "unique_id": "",
+      "number_trips": 0,
+      "trips": [
+        {
+          
+        }
+      ]
+    }
+  }

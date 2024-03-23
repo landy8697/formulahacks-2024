@@ -1,0 +1,30 @@
+{
+        "tripID": "", 
+        "routeID": "",
+        "numLaps": 0,
+        "start_time": 0,
+        "end_time": 0,
+        "total_time" : 0,
+        "start_pos": {
+            "x": 0.0,
+            "y": 0.0,
+            "t": 0,
+            "speed": 0
+        },
+        "end_pos": {
+            "x": 0.0,
+            "y": 0.0,
+            "t": 0,
+            "speed": 0
+        },
+        "locations": [
+        {
+            "loc": {
+                "x": 0.0,
+                "y": 0.0,
+                "t": 0,
+                "speed": 0
+            }
+        }
+        ]
+    }

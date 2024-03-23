@@ -1,0 +1,10 @@
+
+    {
+        "tripID" : 0,
+        "username" : "",
+        "userid" : 0,
+        "routeID" : 0,
+        "date" : 0,
+        "average_speed" : 0,
+        "time" : 0
+    }
